@@ -8,18 +8,23 @@ tech1 = input("I enjoy building and fixing things.")
 
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 
-music1 = input("I can see colours in my mind when i hear music.")
+music1 = input("I can see colours in my mind when I hear music.")
 
 tech2 = input("I know how to build apps and websites.")
 
-outdoor2 = input("I'm good with building structures.")
+outdoor2 = input("I'm good with tying knots and ropes.")
 
 music2 = input("I play a musical instrument well.")
 
+tech3 = input("I can code well")
 
-tech_final = int(tech1) + int(tech2)
-outdoor_final = int(outdoor1) + int(outdoor2)
-music_final = int(music1)+ int(music2)
+outdoor3 = input("I enjoy camping")
+
+music3 = input("I can connect with the music")
+
+tech_final = int(tech1) + int(tech2)+int(tech3)
+outdoor_final = int(outdoor1) + int(outdoor2)+int(outdoor3)
+music_final = int(music1)+ int(music2)+int(music3)
 
 print()
 
