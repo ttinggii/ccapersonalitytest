@@ -6,7 +6,7 @@ print()
 
 tech1 = input("I enjoy building and fixing things.")
 
-outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
+outdoor1 = input("I cannot stand staying in the house.")
 
 music1 = input("I can see colours in my mind when I hear music.")
 
