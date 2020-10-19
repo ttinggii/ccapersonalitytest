@@ -18,15 +18,7 @@ music2 = input("I play a musical instrument well.")
 
 tech3 = input("I can code well")
 
-outdoor3 = input("I enjoy camping")
 
-music3 = input("I can connect with the music")
-
-sports1 = input("I love exercising")
-
-tech_final = int(tech1) + int(tech2)+int(tech3)
-outdoor_final = int(outdoor1) + int(outdoor2)+int(outdoor3)
-music_final = int(music1)+ int(music2)+int(music3)
 
 print()
 
